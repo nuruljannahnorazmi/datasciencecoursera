@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566216250046.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E438AAE",
+    "lastKnownWriteTime" : 1566216296,
+    "last_content_update" : 1566216296151,
+    "path" : "C:/Users/Ariff/Desktop/Jane/Helloworld/Helloworld.Rmd",
+    "project_path" : "Helloworld.Rmd",
+    "properties" : {
+        "cursorPosition" : "24,38",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
